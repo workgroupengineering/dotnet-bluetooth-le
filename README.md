@@ -358,8 +358,9 @@ The BLE API implementation (especially on **Android**) has the following limitat
 
 ## Useful Links
 
-- [Bluetooth Core Specification v4.2 (2014)](https://www.bluetooth.com/specifications/specs/core-specification-4-2/)
-- [Bluetooth Core Specification v5.4 (2023)](https://www.bluetooth.com/specifications/specs/core-specification-5-4/)
+- [Bluetooth Core Specification v5.4 (2024)](https://www.bluetooth.com/specifications/specs/core-specification-amended-5-4/)
+- [Bluetooth Core Specification v6.2 (2025)](https://www.bluetooth.com/specifications/specs/core-specification-6-2/)
+- [Bluetooth Assigned Numbers](https://www.bluetooth.com/specifications/assigned-numbers/)
 - [Android Bluetooth LE guideline](https://developer.android.com/develop/connectivity/bluetooth/ble/ble-overview)
 - [iOS CoreBluetooth Best Practices](https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/BestPracticesForInteractingWithARemotePeripheralDevice/BestPracticesForInteractingWithARemotePeripheralDevice.html)
 - [iOS CoreBluetooth Background Modes](https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/CoreBluetoothBackgroundProcessingForIOSApps/PerformingTasksWhileYourAppIsInTheBackground.html#//apple_ref/doc/uid/TP40013257-CH7-SW7)
