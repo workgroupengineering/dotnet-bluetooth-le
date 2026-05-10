@@ -1,5 +1,36 @@
 # Usage
 
+- [Usage](#usage)
+  - [Installation](#installation)
+  - [Permissions](#permissions)
+    - [Android](#android)
+    - [iOS](#ios)
+    - [MacOS](#macos)
+    - [UWP](#uwp)
+  - [API Usage](#api-usage)
+    - [IBluetoothLE](#ibluetoothle)
+      - [Get the bluetooth status](#get-the-bluetooth-status)
+    - [IAdapter](#iadapter)
+      - [Scan for devices](#scan-for-devices)
+      - [Scan Filtering](#scan-filtering)
+      - [Connect to device](#connect-to-device)
+      - [Connect to known Device](#connect-to-known-device)
+      - [Get services](#get-services)
+      - [Get characteristics](#get-characteristics)
+      - [Read characteristic](#read-characteristic)
+      - [Write characteristic](#write-characteristic)
+      - [Characteristic notifications](#characteristic-notifications)
+      - [Get descriptors](#get-descriptors)
+      - [Read descriptor](#read-descriptor)
+      - [Write descriptor](#write-descriptor)
+      - [Get System Devices](#get-system-devices)
+  - [Important remarks / API limitations](#important-remarks--api-limitations)
+  - [Best practice](#best-practice)
+    - [API](#api)
+    - [General BLE iOS, Android](#general-ble-ios-android)
+  - [Extended topics](#extended-topics)
+
+
 ## Installation
 
 **Vanilla**

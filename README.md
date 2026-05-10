@@ -31,7 +31,12 @@ Build status: [![Build status](https://github.com/dotnet-bluetooth-le/dotnet-blu
 ## Usage
 
 - [Usage](doc/usage.md)
-
+  - [Installation](doc/usage.md#installation)
+  - [Permissions](doc/usage.md#permissions)
+  - [API Usage](doc/usage.md#api-usage)
+  - [Important remarks / API limitations](doc/usage.md#important-remarks--api-limitations)
+  - [Best practice](doc/usage.md#best-practice)
+  - [Extended topics](doc/usage.md#extended-topics)
 
 ## Sample app
 
