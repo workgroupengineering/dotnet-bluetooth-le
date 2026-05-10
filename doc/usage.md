@@ -73,7 +73,7 @@ Android 12 and above may require one or more of the following additional runtime
 Add this line to your manifest if you want to declare that your app is available to BLE-capable devices **only**:
 ```xml
 <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
-````
+```
 
 ### iOS
 
@@ -95,7 +95,7 @@ On iOS you must add the following keys to your `Info.plist`
 <!--Description of the Bluetooth request message (required on iOS 13)-->
 <key>NSBluetoothAlwaysUsageDescription</key>
 <string>YOUR CUSTOM MESSAGE</string>
-````
+```
 
 ### MacOS
 
@@ -105,7 +105,7 @@ On MacOS (version 11 and above) you must add the following keys to your `Info.pl
 <!--Description of the Bluetooth request message-->
 <key>NSBluetoothAlwaysUsageDescription</key>
 <string>YOUR CUSTOM MESSAGE</string>
-````
+```
 
 ### UWP
 
