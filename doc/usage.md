@@ -5,7 +5,7 @@
   - [Permissions](#permissions)
     - [Android](#android)
     - [iOS](#ios)
-    - [MacOS](#macos)
+    - [macOS](#macos)
     - [UWP](#uwp)
   - [API Usage](#api-usage)
     - [IBluetoothLE](#ibluetoothle)
@@ -97,9 +97,9 @@ On iOS you must add the following keys to your `Info.plist`
 <string>YOUR CUSTOM MESSAGE</string>
 ```
 
-### MacOS
+### macOS
 
-On MacOS (version 11 and above) you must add the following keys to your `Info.plist`:
+On macOS (version 11 and above) you must add the following keys to your `Info.plist`:
 
 ```xml
 <!--Description of the Bluetooth request message-->

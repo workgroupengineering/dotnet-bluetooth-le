@@ -130,7 +130,7 @@
 - UWP support pre-release
 
 
-## 2.1 MacOS  
+## 2.1 macOS  
 
 ### 2.1.3
 - Feature: additional scan filtering on Android, for manufacturer data, service data, device adress or device name (fixes #515)
@@ -152,7 +152,7 @@
 ### 2.1.1 Service Release for 2.1.0
 - [iOS] #373, #377 Fixed trace output that caused NRE.
 
-### 2.1.0 Stable Release MacOS
+### 2.1.0 Stable Release macOS
 - Use IReadOnlyLists for Services/Characteristics/Descriptors and concurrent collections for DiscoveredDevices/ConnectedDevices
 Should prevent crashes like: #320
 
